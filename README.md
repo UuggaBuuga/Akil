@@ -1,2 +1,2 @@
 # Akil
-Software Engineering Project 
+NOT A Software Engineering Project 
